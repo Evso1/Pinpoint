@@ -4,10 +4,7 @@
 
 Unlike standard map apps that track your location history, Pinpoint operates on a **"Ghost Protocol"**: it retains zero data, uses anonymously queried commercial-grade maps (ArcGIS), and actively prevents your keyboard from learning your input.
 
-<p align="center">
-  <!-- You can add screenshots here later -->
-  <img src="docs/screenshot.png" alt="Pinpoint App Interface" width="300" />
-</p>
+
 
 ## 🚀 Features
 
