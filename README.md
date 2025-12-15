@@ -28,7 +28,7 @@ Unlike standard map apps that track your location history, Pinpoint operates on 
 ## 📦 Installation
 
 ### Download APK
-Check the [Releases](https://github.com/yourusername/Pinpoint/releases) page for the latest `.apk`.
+Check the [Releases](https://github.com/Evso1/Pinpoint/releases) page for the latest `.apk`.
 
 ### Build from Source
 To build the app for yourself:
