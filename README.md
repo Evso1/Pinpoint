@@ -10,9 +10,9 @@ Unlike standard map apps that track your location history, Pinpoint operates on 
 
 *   **Commercial-Grade Precision**: Utilizes **ArcGIS (Esri)** geocoding services for verified, rooftop-level accuracy.
 *   **Privacy by Design**:
-    *   **RAM-Only State**: No databases (Room) or SharedPrefs. Data is wiped instantly on exit or via the "Kill Switch".
+    *   **RAM-Only State**: No databases or SharedPrefs. Data is wiped instantly on exit or via the "Kill Switch".
     *   **Anonymous Queries**: Uses public, keyless API endpoints. No user accounts, no tracking ids.
-    *   **Incognito Input**: Forces keyboards (Gboard/Samsung) into "incognito mode" to prevent predictive text learning.
+    *   **Incognito Input**: Forces keyboards into "incognito mode" to prevent predictive text learning.
     *   **Zero-Cloud Backup**: Explicitly blocks Android Auto-Backup to Google Drive.
 *   **Minimalist "Stealth" UI**: Dark monochrome theme with high-contrast visibility.
 *   **F-Droid Ready**: Free and Open Source Software (FOSS), dependent only on standard libraries.
@@ -35,7 +35,7 @@ To build the app for yourself:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Pinpoint.git
+    git clone https://github.com/Evso1/Pinpoint.git
     ```
 2.  Open in **Android Studio**.
 3.  Run the build command:
