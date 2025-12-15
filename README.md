@@ -8,7 +8,7 @@ Unlike standard map apps that track your location history, Pinpoint operates on 
 
 ## 🚀 Features
 
-*   **Commercial-Grade Precision**: Utilizes **ArcGIS (Esri)** geocoding services for verified, rooftop-level accuracy (superior to standard OpenStreetMap data).
+*   **Commercial-Grade Precision**: Utilizes **ArcGIS (Esri)** geocoding services for verified, rooftop-level accuracy.
 *   **Privacy by Design**:
     *   **RAM-Only State**: No databases (Room) or SharedPrefs. Data is wiped instantly on exit or via the "Kill Switch".
     *   **Anonymous Queries**: Uses public, keyless API endpoints. No user accounts, no tracking ids.
